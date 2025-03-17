@@ -26,19 +26,7 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "Netflix Clone",
-    image: project1, 
-    description:
-"Built a Netflix clone app using React.js for the front-end and Tailwind CSS for responsive design."
-+"Integrated Firebase for real-time database management and user authentication. The app allows users"
-+"to browse movies, view previews, and search content seamlessly. Employed React Hooks for smooth"
-+"state management and interactive user experience.",  
-    technologies: ["React.js", "Tailwind CSS", "Firebase"],
-    link: "https://netflix-app-clone-three.vercel.app/", 
-
-  },
-  {
+    {
     title: "Smart Cart Using Store API",
     image: project2, 
     description:
@@ -47,7 +35,7 @@ export const PROJECTS = [
     +"uct management for users, with data persistence through localStorage. Built with HTML, CSS, and"
     +"JavaScript, this app delivers a dynamic, responsive and interactive shopping experience. ",
       technologies: ["HTML", "CSS", "JavaScript"],
-      link:"https://smart-cart-using-store-api.vercel.app/",
+      link:"https://derangula-abhishek-derangula-abhishek-smart-cart-1mynpncx3.vercel.app/",
   },
   {
     title: "Medical Chatbot",
@@ -59,24 +47,11 @@ export const PROJECTS = [
   link:"https://tarunkumarreddyk.github.io/MedicalChatBot/",
 
   },
-  {
-    title: "Raspberry Pi Based Multi-Language Reader for Blind",
-    image: project4, 
-    description:"This project, based on a Raspberry Pi, manages camera, "
-    +"speaker and LCD peripherals, employing Optical Character Recognition "
-    +" It captures well-illuminated English text, ideally in Times New Roman"+
-    " font and a font size of at least 24. Upon successful recognition, the system "
-    +"announces the content through the speaker. Moreover, it’s adaptable to "
-    +"languages like Telugu and Hindi,by using the Text-to- Speech conversion"
-    +" empowering visually impaired individuals to access printed material autonomously.",  
-      technologies: ["Python", "Raspberry Pi", "OCR"],
-      // link:"https://smart-cart-using-store-api.vercel.app/",
-
-  },
+  
 ];
 
 export const CONTACT = {
-  address: "Lakshminarayana Pura, Aswath Nagar, Marathahalli, Bengaluru, Karnataka 560037",
+  address: "Chandra Layout, Marathahalli, Bengaluru, Karnataka 560037",
   phoneNo: "9014018225",
   email: "abhishekderangula1305@gmail.com",
 };
