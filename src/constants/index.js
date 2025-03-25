@@ -35,7 +35,7 @@ export const PROJECTS = [
     +"uct management for users, with data persistence through localStorage. Built with HTML, CSS, and"
     +"JavaScript, this app delivers a dynamic, responsive and interactive shopping experience. ",
       technologies: ["HTML", "CSS", "JavaScript"],
-      link:"https://derangula-abhishek-derangula-abhishek-smart-cart-1mynpncx3.vercel.app/",
+      link:"https://derangulaabhishek.github.io/Smart_Shoping/",
   },
   {
     title: "Medical Chatbot",
@@ -44,7 +44,7 @@ export const PROJECTS = [
     +"health-related queries. The chatbot is designed to in-teract with users and assist them in determining"
     +"their symptoms and providing advice on possible diagnoses or treatment options.",
   technologies: ["HTML", "CSS", "JavaScript"],
-  link:"https://tarunkumarreddyk.github.io/MedicalChatBot/",
+  link:"https://derangulaabhishek.github.io/Smart_Shoping/",
 
   },
   
