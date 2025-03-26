@@ -44,7 +44,7 @@ export const PROJECTS = [
     +"health-related queries. The chatbot is designed to in-teract with users and assist them in determining"
     +"their symptoms and providing advice on possible diagnoses or treatment options.",
   technologies: ["HTML", "CSS", "JavaScript"],
-  link:"https://derangulaabhishek.github.io/Smart_Shoping/",
+ // link:"https://derangulaabhishek.github.io/Smart_Shoping/",
 
   },
   

@@ -18,7 +18,7 @@ const Navbar = () => {
         <FaSquareTwitter />
         </a>
         <a
-          href="https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/abhishek-derangula-a64233273/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn">
@@ -26,7 +26,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://www.github.com/in/your-github-profile"
+          href="https://github.com/DerangulaAbhishek"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub">
@@ -34,7 +34,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://www.instagram.com/in/your-instagram-profile"
+          href="https://www.instagram.com/abhi_shek__13/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram">
