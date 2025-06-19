@@ -62,7 +62,7 @@ export const PROJECTS = [
   technologies: ["Jira"],
     link:"",
 
-  },
+  }
   
   
 ];
