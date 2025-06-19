@@ -17,11 +17,11 @@ export const EXPERIENCES = [
   },
 
   {
-    year: "Jan 2024 - Present (1 Year 2 months)",
-    role: "IT Support Specialist",
-    company: "Artech, Banglore,  India - Remote ",
-    description: `As an IT Support Specialist at Artech, I ensure seamless IT services for KPMG, specializing in hardware, software, networking, and Java-based application support. Skilled in Windows, SCCM, Citrix, Active Directory, Microsoft Office, and Lakeside SysTrack for system monitoring and issue resolution. Efficient in ServiceNow for troubleshooting, minimizing downtime, and maintaining IT documentation. Collaborates with KPMG’s IT team, supports new implementations, and contributes to training initiatives for enhanced technical proficiency.`,
-    technologies: ["Active Directory", "Service Now","SysTrack","Incident Management", ],
+    year: "Jan 2024 - Present (1.5 Years)",
+    role: "Java Developer",
+    company: "Artech, Banglore,  India - Onsite ",
+    description: `Developed and deployed end-to-end web applications using Java, Spring Boot, and Thymeleaf, handling both front-end and back-end components. Conducted unit/integration testing, managed CI/CD pipelines, and supported production releases with RPC implementation and post-deployment optimizations. Collaborated with teams for code reviews, external integration testing, and client feedback to ensure high-quality, scalable solutions.`,
+    technologies: ["Spring Boot", "Thymeleaf","Java","JUnit" ],
   },
 ];
 
@@ -44,9 +44,26 @@ export const PROJECTS = [
     +"health-related queries. The chatbot is designed to in-teract with users and assist them in determining"
     +"their symptoms and providing advice on possible diagnoses or treatment options.",
   technologies: ["HTML", "CSS", "JavaScript"],
- // link:"https://derangulaabhishek.github.io/Smart_Shoping/",
+    link:"https://derangulaabhishek.github.io/Smart_Shoping/",
 
   },
+  {
+    title: "Tune Song",
+    image: project4,
+    description:"Built a full-stack music streaming application using Java, Spring Boot, and MySQL, implementing secure role-based access control for admin and user roles.Designed and developed RESTful APIs to enable seamless interaction between the front-end and back-end components.Integrated Razorpay for secure payment processing and subscription management.Created a responsive and user-friendly UI using HTML, CSS, and JavaScript, ensuring a smooth music experience across all devices.",
+  technologies: ["HTML", "Java","MYSQL","Spring Boot","CSS", "JavaScript"],
+    link:"https://github.com/DerangulaAbhishek/Tunehub_app",
+
+  },
+  {
+    title: "Developed Test Cases for Application (Manual Testing)",
+    image: project5,
+    description:"Worked on manual testing by developing detailed test cases based on test scenarios for a CRM application. Executed test cases to ensure functional and UI accuracy, and used JIRA to track bugs and monitor testing progress for efficient issue resolution.",
+  technologies: ["Jira"],
+    link:"",
+
+  },
+  
   
 ];
 
